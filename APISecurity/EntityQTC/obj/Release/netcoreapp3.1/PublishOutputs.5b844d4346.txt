@@ -1,0 +1,4 @@
+D:\3_Empresas\HUAWEI\APISecurity\EntityQTC\bin\Release\netcoreapp3.1\publish\EntityQTC.dll
+D:\3_Empresas\HUAWEI\APISecurity\EntityQTC\bin\Release\netcoreapp3.1\publish\EntityQTC.deps.json
+D:\3_Empresas\HUAWEI\APISecurity\EntityQTC\bin\Release\netcoreapp3.1\publish\EntityQTC.pdb
+D:\3_Empresas\HUAWEI\APISecurity\EntityQTC\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll

@@ -1,0 +1,17 @@
+D:\3_Empresas\HUAWEI\APISecurity\EntityQTC\bin\Debug\netcoreapp3.1\EntityQTC.deps.json
+D:\3_Empresas\HUAWEI\APISecurity\EntityQTC\bin\Debug\netcoreapp3.1\EntityQTC.dll
+D:\3_Empresas\HUAWEI\APISecurity\EntityQTC\bin\Debug\netcoreapp3.1\EntityQTC.pdb
+D:\3_Empresas\HUAWEI\APISecurity\EntityQTC\obj\Debug\netcoreapp3.1\EntityQTC.AssemblyInfoInputs.cache
+D:\3_Empresas\HUAWEI\APISecurity\EntityQTC\obj\Debug\netcoreapp3.1\EntityQTC.AssemblyInfo.cs
+D:\3_Empresas\HUAWEI\APISecurity\EntityQTC\obj\Debug\netcoreapp3.1\EntityQTC.csproj.CoreCompileInputs.cache
+D:\3_Empresas\HUAWEI\APISecurity\EntityQTC\obj\Debug\netcoreapp3.1\EntityQTC.dll
+D:\3_Empresas\HUAWEI\APISecurity\EntityQTC\obj\Debug\netcoreapp3.1\EntityQTC.pdb
+D:\3_Empresas\QTC\QTCSecurity\APISecurity\EntityQTC\bin\Debug\netcoreapp3.1\EntityQTC.deps.json
+D:\3_Empresas\QTC\QTCSecurity\APISecurity\EntityQTC\bin\Debug\netcoreapp3.1\EntityQTC.dll
+D:\3_Empresas\QTC\QTCSecurity\APISecurity\EntityQTC\bin\Debug\netcoreapp3.1\EntityQTC.pdb
+D:\3_Empresas\QTC\QTCSecurity\APISecurity\EntityQTC\obj\Debug\netcoreapp3.1\EntityQTC.csproj.AssemblyReference.cache
+D:\3_Empresas\QTC\QTCSecurity\APISecurity\EntityQTC\obj\Debug\netcoreapp3.1\EntityQTC.AssemblyInfoInputs.cache
+D:\3_Empresas\QTC\QTCSecurity\APISecurity\EntityQTC\obj\Debug\netcoreapp3.1\EntityQTC.AssemblyInfo.cs
+D:\3_Empresas\QTC\QTCSecurity\APISecurity\EntityQTC\obj\Debug\netcoreapp3.1\EntityQTC.csproj.CoreCompileInputs.cache
+D:\3_Empresas\QTC\QTCSecurity\APISecurity\EntityQTC\obj\Debug\netcoreapp3.1\EntityQTC.dll
+D:\3_Empresas\QTC\QTCSecurity\APISecurity\EntityQTC\obj\Debug\netcoreapp3.1\EntityQTC.pdb

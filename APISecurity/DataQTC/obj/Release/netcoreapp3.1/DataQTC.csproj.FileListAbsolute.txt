@@ -1,0 +1,9 @@
+D:\3_Empresas\HUAWEI\APISecurity\DataQTC\bin\Release\netcoreapp3.1\DataQTC.deps.json
+D:\3_Empresas\HUAWEI\APISecurity\DataQTC\bin\Release\netcoreapp3.1\DataQTC.dll
+D:\3_Empresas\HUAWEI\APISecurity\DataQTC\bin\Release\netcoreapp3.1\DataQTC.pdb
+D:\3_Empresas\HUAWEI\APISecurity\DataQTC\obj\Release\netcoreapp3.1\DataQTC.csproj.AssemblyReference.cache
+D:\3_Empresas\HUAWEI\APISecurity\DataQTC\obj\Release\netcoreapp3.1\DataQTC.AssemblyInfoInputs.cache
+D:\3_Empresas\HUAWEI\APISecurity\DataQTC\obj\Release\netcoreapp3.1\DataQTC.AssemblyInfo.cs
+D:\3_Empresas\HUAWEI\APISecurity\DataQTC\obj\Release\netcoreapp3.1\DataQTC.csproj.CoreCompileInputs.cache
+D:\3_Empresas\HUAWEI\APISecurity\DataQTC\obj\Release\netcoreapp3.1\DataQTC.dll
+D:\3_Empresas\HUAWEI\APISecurity\DataQTC\obj\Release\netcoreapp3.1\DataQTC.pdb

@@ -1,0 +1,3 @@
+D:\3_Empresas\HUAWEI\APISecurity\DataQTC\bin\Release\netcoreapp3.1\publish\DataQTC.dll
+D:\3_Empresas\HUAWEI\APISecurity\DataQTC\bin\Release\netcoreapp3.1\publish\DataQTC.deps.json
+D:\3_Empresas\HUAWEI\APISecurity\DataQTC\bin\Release\netcoreapp3.1\publish\DataQTC.pdb

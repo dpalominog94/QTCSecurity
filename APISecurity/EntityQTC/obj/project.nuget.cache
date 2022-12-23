@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "52bLSHK4L1lxo+k/JU9DXOY3jmhLjW+GfX90h709xdrF6I/6zekY+MY6xBuFgjBcZGMeLAWoa5Q3uemUtJDqYg==",
+  "success": true,
+  "projectFilePath": "D:\\3_Empresas\\QTC\\QTCSecurity\\APISecurity\\EntityQTC\\EntityQTC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DANIEL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
